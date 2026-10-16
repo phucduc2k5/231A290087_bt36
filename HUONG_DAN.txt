@@ -1,0 +1,17 @@
+BÀI TẬP 36 - MINI GAME WEB
+
+Tệp chính: 231A290087_bt36.html
+Cách chạy:
+1. Mở tệp MSSV_bt36.html bằng Chrome, Edge hoặc Firefox.
+2. Nhấn "Bắt đầu".
+3. Dùng phím mũi tên trái/phải để di chuyển giỏ.
+4. Chụp ảnh màn hình lúc trò chơi đang chạy để nộp kèm nếu giảng viên yêu cầu.
+
+Chức năng đã làm:
+- Khung game 500 x 400 px, position relative và overflow hidden.
+- Giỏ di chuyển trái/phải bằng ArrowLeft, ArrowRight và không vượt khỏi khung.
+- Táo rơi tự động từ vị trí ngẫu nhiên.
+- Hiển thị điểm số và 3 mạng ban đầu.
+- Hứng táo tăng điểm, táo rơi mất mạng, tốc độ tăng dần.
+- Khi hết mạng, hiển thị Game Over và dừng vòng lặp.
+
